@@ -1,0 +1,3 @@
+﻿  Lab_06.4_rek.cpp
+C:\Users\Roman\source\repos\Lab_06.4_rek\Lab_06.4_rek.cpp(45,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Lab_06.4_rek.vcxproj -> C:\Users\Roman\source\repos\Lab_06.4_rek\x64\Debug\Lab_06.4_rek.exe

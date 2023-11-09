@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest_6_4_rek.cpp
+C:\Users\Roman\source\repos\Lab_06.4_rek\Lab_06.4_rek.cpp(45,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Users\Roman\source\repos\Lab_06.4_rek\x64\Debug\UnitTest_6_4_rek.lib and object C:\Users\Roman\source\repos\Lab_06.4_rek\x64\Debug\UnitTest_6_4_rek.exp
+  UnitTest_6_4_rek.vcxproj -> C:\Users\Roman\source\repos\Lab_06.4_rek\x64\Debug\UnitTest_6_4_rek.dll
